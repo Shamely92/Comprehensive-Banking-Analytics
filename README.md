@@ -24,6 +24,7 @@ App is created on STREAMLIT framework
 
 **Model Accuracy:**
 98%
+
 **Conclusion**
 Creating a segmentation of customers based on their bank details and divide them into some groups through clustering algorithms and then making a prediction on those groups for new customers.
 Visualizations and insights derived from the analysis.
