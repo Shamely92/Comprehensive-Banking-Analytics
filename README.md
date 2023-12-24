@@ -14,7 +14,7 @@ Ploted colleration matrix to get insights about dependend and independed variabl
 K-Means+ clustering algorithm is used for creating segments and Made many classifiers models like Logistic Regression,RandomForestClassifier,DecisionTreeClassifier,LGBM classifier but selected LIGHT GBM Classifier.
 
 **Hyperparameter Optimization:**
-Using Randomizedsearch CV and GridSearch CV to select the best parameter for training the model
+Using GridSearch CV to select the best parameter for training the model
 
 **Model Dump:**
 As per selected trained model is dumped to pickled format for app development
